@@ -167,5 +167,13 @@ epochs and achieve a good performance.
 
 
 
+## Future Work
 
+1. Augment the existing training dataset with supplementary MRI images from diverse sources to improve model accuracy and robustness.
+Evaluate Across Different Modalities and Organs:
+
+2. Test the CycleGAN model on a wider range of MRI modalities and various organs to assess its performance comprehensively and ensure its applicability in diverse clinical scenarios.
+Implement Advanced Evaluation Metrics:
+
+3. Integrate more sophisticated evaluation metrics to better capture the quality and clinical relevance of the generated images, ensuring the model's effectiveness and reliability in medical practice.
 
