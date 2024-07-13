@@ -3,6 +3,8 @@
 
 
 Imagine a world where getting different types of MRI scans is quick, easy, and safe. That's exactly what CycleGAN, an advanced deep learning model, is capable of doing. 
+
+
 **What is CycleGAN?**
 
 CycleGAN stands for "Cycle-Consistent Generative Adversarial Network." It's a type of artificial intelligence that can take an image in one style and convert it to another style. For example, it can transform a T1-weighted MRI scan into a T2-weighted MRI scan. This is incredibly useful in medicine.
@@ -23,6 +25,9 @@ The process begins by loading both the T1 and T2 MRI images. After loading, the 
 to NumPy arrays. The images are then resized to 256 X 256 pixels to ensure that all images are of uniform dimensions. The pixel values are also normalized to a range of [-1 1]. This is performed by dividing the pixel values by 127.5 and subtracting 1 from them. The
 GAN consists of two main components, the generator and
 the discriminator networks. 
+
+
+
 **The Generator Network**
 The generator is based on the U-net architecture. U-Net
 is used because it is known to be very effective in image to
@@ -66,7 +71,11 @@ a convolutional layer that makes use of the tanh activation
 function. The tanh activation function is used since it maps
 the pixels to a range of [-1 1].
 
+
+
 **The Discriminator Network**
+
+
 The discriminator network is based on PatchGAN architecture.
 It penalises the image structure at the local level.
 Then it classifies the image if it is real or fake using the
