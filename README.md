@@ -22,6 +22,10 @@ set of images, with 43 images in ”trainT1” and 46 images in
 dataset can be used for working on translating images from
 one modality to another and testing how well they can be
 translated. 
+
+
+
+
 ![image](https://github.com/user-attachments/assets/9dee4834-7a00-4c8b-b99e-b8350b041e13)
 ![image](https://github.com/user-attachments/assets/41cc4f1e-a825-4412-8ff8-0e486b8f91d3)
 
