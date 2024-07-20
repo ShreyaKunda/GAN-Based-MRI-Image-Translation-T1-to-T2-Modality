@@ -1,4 +1,4 @@
-# Bridging-the-Modality-Gap-Generative-Adversarial-Networks-for-T1-T2-MRI-Image-Translation
+# Bridging the Modality Gap - Generative Adversarial Networks for T1-T2 MRI Image Translation
 ## A Beginner's Guide to CycleGAN and to this project
 
 
