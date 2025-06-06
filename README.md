@@ -6,11 +6,12 @@ This experiment presents a deep learning-based approach using a CycleGAN model t
 
 
 ## Table of Contents
-- [Objective](#-Objective-of-the-Experiment)
-- [Dataset](#-Dataset)
-- [Workflow](#-Workflow)
-- [Results and Analysis](#-Results)
-- [Future Direction](#-Future-Work)
+- [Objective of the Experiment](#objective-of-the-experiment)
+- [Dataset](#dataset)
+- [Workflow](#workflow)
+- [Results](#results)
+- [Future Direction](#future-direction)
+
 
 
 ## Objective of the Experiment
