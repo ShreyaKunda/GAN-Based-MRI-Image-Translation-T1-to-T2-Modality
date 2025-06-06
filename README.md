@@ -173,3 +173,11 @@ epochs and achieve a good performance.
 3. Test the CycleGAN model on a wider range of MRI modalities and various organs to assess its performance comprehensively and ensure its applicability in diverse clinical scenarios.
 4. Integrate more sophisticated evaluation metrics to better capture the quality and clinical relevance of the generated images, ensuring the model's effectiveness and reliability in medical practice.
 
+
+## Publication
+
+If you want further details, use this link:
+
+[GAN-Based MRI Image Translation: T1 to T2 Modality - Published Paper](https://ieeexplore.ieee.org/abstract/document/10725367)
+
+
