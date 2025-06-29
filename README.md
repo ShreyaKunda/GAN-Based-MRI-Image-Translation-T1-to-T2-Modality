@@ -176,7 +176,7 @@ epochs and achieve a good performance.
 
 ## Publication
 
-If you want further details, use this link:
+For further details, use this link:
 
 [GAN-Based MRI Image Translation: T1 to T2 Modality - Published Paper](https://ieeexplore.ieee.org/abstract/document/10725367)
 
